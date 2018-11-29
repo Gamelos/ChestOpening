@@ -1,0 +1,5 @@
+name: ChestOpening
+author: Gamelos
+version: 1.0
+
+main: de.gamelos.chest.Main
